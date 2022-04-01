@@ -6,4 +6,6 @@ Script for login with Edge browser, capability with IE.
 3. Selenium ver 4.1.3
 4. pyautogui ver 0.9.53
 - Instal modules from reuirement file by: pip install -r requirements.txt
+# Presentation
+![ezgif-2-437d6ac808](https://user-images.githubusercontent.com/45486622/161246211-bc5d888b-42b0-407b-904b-129954542b75.gif)
 
