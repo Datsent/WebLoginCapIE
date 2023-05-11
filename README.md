@@ -1,4 +1,4 @@
-# WebLogin
+# WebLogin1111
 Script for login with Edge browser, capability with IE.
 # Requirements
 1. python ver 3+ - https://www.python.org/downloads/
